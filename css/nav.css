@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: aliceblue;
+    box-shadow: 2px 2px 20px color black;
+
+
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+}
+nav ul li{
+    margin: 0 1rem;
+
+}
+nav ul li i{
+    margin-right: 2px ;
+}
+nav ul li :hover{
+    background-color:darkgrey;
+    box-sizing: 25px;
+    
+}
+.load{
+    
+    cursor: pointer;
+}

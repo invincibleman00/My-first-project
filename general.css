@@ -1,0 +1,288 @@
+.home_section{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    background-image: url('/images/parallax1.jpg')   
+}
+.home_section h1{
+    background-color: black;
+    padding: 12px 24px;
+    font-size: 24px;
+    font-weight: 300px;
+    letter-spacing: 10px;
+   
+}
+.About_me h3{
+    margin-top: 65px;
+    padding: 12px 24px;
+    font-size: 24px;
+    font-weight: 300px;
+    letter-spacing: 5px;
+    display: flex;
+    justify-content: center;
+
+}
+.About_me p{
+margin-top: 0.5px;
+font-size: 14px;
+padding: 12px 24px;
+font-style: italic;
+display: flex;
+justify-content: center;
+}
+
+.About_me h4{
+    box-sizing: border-box;
+    
+    color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+
+    height: 190px;
+    margin-block-end: 18px;
+    margin-block-start: 18px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    padding: 1rem;
+    margin-left: 200px;
+    margin-right: 50px;
+    padding-right: 150px;
+
+    text-size-adjust: 100%;
+    
+}
+.parent_container{
+    margin-top: 200px;
+    padding: 23px;
+    box-sizing:border-box;
+    color: rgb (119,119 199);
+    display: block;
+    font-family: sans-serif;
+    font-size: 15px;
+    height: 378px;
+    line-height: 27px;
+    text-size-adjust: 100%;
+
+
+
+}
+.Name{
+    display: flex;
+
+}
+.jojo{
+    margin-left: 329px;
+    
+}
+.joanne{
+    margin-left: 205px;
+    margin-bottom: 28px;
+    display: inline-block;
+    letter-spacing: 3px;
+    
+
+}
+.head{
+    display: block;
+    justify-content: left;
+    margin-right: 190px;
+    padding-left: 50px;
+    height: 160px;
+    font-family: sans-serif;
+    line-height: 27px;
+    padding right: 20px;
+    font size: 15px;
+}
+
+
+
+
+.line h1{
+    text-align: 20px;
+}
+.footer{
+    background-size: 20px;
+    background-color:black ;
+    background-position: center;
+    text-align: center;
+    color: white;
+    text-size-adjust: 20px;
+    margin-bottom: 29px;
+    
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+
+    text-decoration-color: white;
+}
+.down{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    display: flex;
+    color: white;
+    align-items: center;
+    background-image: url('/images/parallax2.jpg');
+}
+
+.down h1{
+    
+    padding: 12px 24px;
+    font-size: 35px;
+    font-weight: 300px;
+    letter-spacing: 10px;
+    justify-content: center;
+    text-align: center;
+    margin-left:  550px;}
+
+.good{
+    padding: 0 10rem;
+}
+
+.good .heading {
+    text-align: center;
+    padding bottom: 3rem,;
+
+}
+.good div .inner{
+    background-color: #f1f1f1;
+    
+}
+.good div .inner  .ninety{
+    background-color: gray;
+    width: 90%;
+    text-align: center;
+    font-weight: 800;
+    padding: 10px 0;
+
+
+}
+.good div .inner .ninety, .eightyfive, .seventyfive{
+    background-color: black;
+    width: 90%;
+    text-align: center;
+    color: white;
+    font-weight: 800;
+    padding: 10px 0;
+}
+.good div .inner .ninety{
+    background-color: gray;
+    width: 90%;
+
+}
+.good div .inner .seventyfive{
+    width: 85%;
+}
+.black-container{
+    background-color: black;
+
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0;
+    margin: 4rem 0;
+
+}
+
+.black-container div{
+    text-align: center;
+}
+.Grid-container{
+    
+
+   
+
+
+}
+.Grid-container h3{
+    padding: 2rem;
+    padding-left: 40rem;
+    color: gray;
+    font-style: italic;
+    font-family: sans-serif;
+    justify-content: center;
+}
+
+.Grid-container p{
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+}
+.Grid{
+    margin-top: 0 265px 0 265;
+    padding: 12px 24px;
+    padding: 2rem;
+    display:grid;
+    grid-template-columns: auto auto auto;
+    height: auto;
+    max-width: 1%;
+    gap: 10px;
+    size-adjust: 20vh;
+
+}
+.load{
+    padding: 2rem;
+
+    font-size: 15px;
+    font-family: sans-serif;
+    padding-left: 2rem;
+    text-align: center;
+}
+.contact{
+    margin-top: 2rem3;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    background-image: url('/images/parallax3.jpg');
+    margin-top: 4rem 0;
+}
+.contact p{
+    font-size: 38px;
+    letter-spacing: 4px;
+
+}
+.where{
+    text-align: center;
+}
+.where h3{
+    padding: 2rem;
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.where p{
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+}
+.contain{
+    margin: 2rem ;
+    display:grid;
+    grid-column:  auto auto;
+    gap: 3px;
+    padding: 0px;
+    justify-content: center;
+    
+}
+   
+
+.contain img{
+    margin-bottom: 20px;
+    margin-top: 3rem;
+    max-width: 30%;
+    height: auto;
+    justify-items: center;
+
+}
